@@ -1,0 +1,8 @@
+.image-body {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 50px;
+}
+.image {
+  object-fit: scale-down;
+}
